@@ -6,7 +6,7 @@
 
 ![hey](https://github.com/frameyourwork/frameyourwork/blob/main/github.png?raw=true)
   
-I'm Jordan, a Web Developer, Digital Creative with a love for anything Tech. JavaScript is my first language, currently exploring the front & back-end of the web.
+I'm Jordan, a Fullstack Web Developer, Design Engineer and a Digital Creative with a love for anything Tech. JavaScript is my first digital language, currently exploring the AI side of the web.
 
 # Here is a Blog project Built in ReactJS, See the articles I am currently reading. https://metanews.blog/
 ![Tech-Blog](https://github.com/JDevdsn/JDevdsn/blob/master/Tech-Blog.png?raw=true)
@@ -23,9 +23,9 @@ I'm Jordan, a Web Developer, Digital Creative with a love for anything Tech. Jav
 
 :100: God is Good 
 
-:🚀: 3 years since my career change!
+:🚀: I'm know freelancing full time!
 
-:apple: Adaptable mindset (**open to learning**)
+:apple: Adaptable mindset (** always open to learning thats growth🌱**)
 
 :sparkles: Child at heart (**Take me back to Disney World**)
 
